@@ -1,8 +1,8 @@
 Reflexión sobre listas y participación – Semana 3 Día 4
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: David Casanova
+Fecha: 30 de abril del 2026
+Nombre de la rama: david_casanova
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -19,3 +19,9 @@ En tu respuesta menciona al menos dos de estas ideas:
 - lenguaje claro
 
 Respuesta:
+Organizar la información en listas claras ayuda a que cualquier persona pueda entender lo que está 
+pasando sin confundirse. Cuando hay claridad de la información, es más fácil que la gente participe 
+y aporte ideas con seguridad. Además, facilita el seguimiento comunitario, porque todos pueden 
+ver qué se ha hecho y qué falta por hacer. Esto también fortalece la transparencia, ya que nada 
+queda oculto o desordenado. Cuando la información es sencilla y bien organizada, se reduce el riesgo 
+de desinformación. Al final, todo esto construye confianza entre las personas y mejora la participación ciudadana.
